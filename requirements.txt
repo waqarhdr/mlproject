@@ -1,0 +1,4 @@
+pandas
+numpy 
+seaborn
+#-e . # this will trigger setup.py but it should be ignored while reading
